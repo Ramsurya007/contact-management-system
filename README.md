@@ -18,5 +18,5 @@ A simple command-line application built using Python to manage contacts.
 
 ## ▶️ How to Run
 1. Clone the repository
-2. Run main.py
+2. Run contact_app.py
 3. Follow on-screen instructions
